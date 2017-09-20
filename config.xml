@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" id="com.moodle.moodlemobile" version="3.3.1">
-    <name>Moodle Mobile</name>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" id="com.ezelctronics.www" version="1.0">
+    <name>EZ Electronics E-Learning</name>
     <description>
-        Moodle Mobile official app
+        Official EZ Electronics E-Learning App
     </description>
-    <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Mobile team
+    <author href="http://ezelctronics.com" email="info@ezelectronics.in">
+        EZ Electronics
     </author>
     <content src="index.html"/>
     <access origin="*"/>
